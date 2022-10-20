@@ -21,7 +21,7 @@ def rep(a, maxim):
     return a
 
 
-a = [int(x) for x in input().split()]
+a = [float(x) for x in input().split()]
 
 m = f(a)
 
